@@ -4,7 +4,7 @@ import Countries from './components/countries/Countries'
 function App() {
   return (
     <>
-      <h2>World Tour With React</h2>
+      <h2>Awesome World Tour With React!!!</h2>
       <Countries></Countries>
     </>
   )
